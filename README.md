@@ -3,7 +3,7 @@ A Data Science Project by Albert Cort Banke with data from WHO
 
 Data: CSV
 
-Language: Python 3.8
+Language: Python 3.8.8
 
 IDE: Visual Studio Code
 
